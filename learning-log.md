@@ -32,7 +32,7 @@ which part of the CIA triad was at risk.
 - **Lesson:** The secure option still helps the person get what they need. Security
   works best when it doesn't just say "no."
 
-  **Example: Finance**
+**Example: Finance**
 - **Situation:** A credit union customer emailed asking to change their wire transfer
   recipient to a new account "because their old bank is closing." The email chain
   looked legitimate.
